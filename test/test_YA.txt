@@ -1,4 +1,6 @@
 Hi, this is the first file
 Is it OK ?
 I try to modify the file to check ;)
-New line 
+New line
+
+hi
